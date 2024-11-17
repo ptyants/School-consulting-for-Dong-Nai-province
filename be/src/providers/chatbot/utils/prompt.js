@@ -1,0 +1,6 @@
+export const promptRole = 'You are playing the role of a virtual assistant named "Sở GD&ĐT Đồng Nai AI", representing the Education and Training Department of Dong Nai Province (Sở GD&ĐT Đồng Nai). Your specialty is supporting students, parents, and educators in various educational and administrative issues. Please reply to the user as a helpful assistant for this department!'
+
+export const moderationDeteched = 'Xin lưu ý rằng nội dung bạn đang gửi có tính chất nhạy cảm và không phù hợp với môi trường giáo dục. Bạn hãy hỏi câu hỏi khác để được giải đáp. Nếu bạn cần sự hỗ trợ hoặc muốn nói chuyện về bất kỳ vấn đề nào tôi vẫn sẽ ở đây để giúp đỡ bạn. Hoặc bạn có thể liên hệ qua email vanphong.sodongnai@moet.edu.vn để được hỗ trợ sâu hơn nhé!'
+
+export const moderationDetechedMd = `Xin lưu ý rằng nội dung bạn đang gửi có tính chất nhạy cảm và không phù hợp với môi trường giáo dục. Bạn hãy hỏi câu hỏi khác để được giải đáp. Nếu bạn cần sự hỗ trợ hoặc muốn nói chuyện về bất kỳ vấn đề nào, tôi vẫn sẽ ở đây để giúp đỡ bạn. Hoặc bạn có thể [liên hệ qua email](mailto:vanphong.sodongnai@moet.edu.vn) để được hỗ trợ sâu hơn nhé! 
+![Cảm ơn](https://res.cloudinary.com/duimhuxyz/image/upload/v1713943571/logo/200w.gif_hwuwrd.gif)`

@@ -1,0 +1,194 @@
+{
+  "texts": [
+    {
+      "name": "greeting",
+      "text": "Chào mừng các bạn học sinh, sinh viên đến với công cụ ChatBot Tư vấn thông tin học đường",
+      "attrs": {
+        "className": "text-2xl font-bold"
+      },
+      "element": "p"
+    },
+    {
+      "name": "greeting-subtitle",
+      "text": "Một số thông tin về tác giả, về cuộc thi và về thông tin của ứng dụng.",
+      "attrs": {
+
+      },
+      "className": "text-base mb-2",
+      "element": "p"
+    },
+    {
+      "name": "line01",
+      "text": "",
+      "attrs": {
+        "className": "my-2"
+      },
+      "element": "hr"
+    },
+    {
+      "name": "about-authors",
+      "text": "1. Về nhóm tác giả",
+      "attrs": {
+        "className": "text-xl font-bold"
+      },
+      "element": "p"
+    },
+    {
+      "name": "about-authors-list01",
+      "text": [
+        {
+          "name": "about-authors-listitem03",
+          "text": [
+            {
+              "name": "about-authors-listitem03-cnt01",
+              "text": "Phạm Thế An (23DTH5) (Trưởng dự án): có kinh nghiệm xây dựng các ứng dụng khách và máy chủ, với React, NodeJS, Javascript và Python. Github: ",
+              "attrs": {},
+              "element": "span"
+            },
+            {
+              "name": "about-authors-listitem03-cnt02",
+              "text": "https://github.com/ptyants",
+              "attrs": {
+                "className": "text-blue-500",
+                "href": "https://github.com/ptyants"
+              },
+              "element": "a"
+            }
+          ],
+          "attrs": {},
+          "element": "li"
+        },
+        {
+          "name": "about-authors-listitem04",
+          "text": [
+            {
+              "name": "about-authors-listitem04-cnt01",
+              "text": "Hoàng Minh Tuấn Anh (23DTH5) (Phó dự án): có kinh nghiệm xây dựng các ứng dụng web với Reactjs, Nodejs. Github: ",
+              "attrs": {},
+              "element": "span"
+            },
+            {
+              "name": "about-authors-listitem04-cnt02",
+              "text": "https://github.com/Tuananh165-art",
+              "attrs": {
+                "className": "text-blue-500",
+                "href": "https://github.com/Tuananh165-art"
+              },
+              "element": "a"
+            }
+          ],
+          "attrs": {},
+          "element": "li"
+        },
+        {
+          "name": "about-authors-listitem01",
+          "text": [
+            {
+              "name": "about-authors-listitem01-cnt01",
+              "text": "Đinh Như Khải (23DTH2) (Thành viên): có kinh nghiệm xây dựng ứng dụng khách với React, Javascript. Github: ",
+              "attrs": {},
+              "element": "span"
+            },
+            {
+              "name": "about-authors-listitem01-cnt02",
+              "text": "https://github.com/khaicoderproject",
+              "attrs": {
+                "className": "text-blue-500",
+                "href": "https://github.com/khaicoderproject"
+              },
+              "element": "a"
+            }
+          ],
+          "attrs": {},
+          "element": "li"
+        }
+      ],
+      "attrs": {
+        "className": "ms-2 mb-2 list-disc list-inside"
+      },
+      "element": "ul"
+    },
+    {
+      "name": "about-fair",
+      "text": "2. Về cuộc thi",
+      "attrs": {
+        "className": "text-xl font-bold"
+      },
+      "element": "p"
+    },
+    {
+      "name": "about-fair-list01",
+      "text": [
+        {
+          "name": "about-fair-listitem01",
+          "text": "Thời gian nhận bài thi: 1/4/2024",
+          "attrs": {},
+          "element": "li"
+        },
+        {
+          "name": "about-fair-listitem02",
+          "text": "Thời gian vòng sơ khảo: Đang cập nhật",
+          "attrs": {},
+          "element": "li"
+        },
+        {
+          "name": "about-fair-listitem03",
+          "text": "Thời gian vòng chung két: Đang cập nhật",
+          "attrs": {},
+          "element": "li"
+        }
+      ],
+      "attrs": {
+        "className": "ms-2 mb-2 list-disc list-inside"
+      },
+      "element": "p"
+    },
+    {
+      "name": "about-project",
+      "text": "3. Về dự án",
+      "attrs": {
+        "className": "text-xl font-bold"
+      },
+      "element": "p"
+    },
+    {
+      "name": "about-project-content01",
+      "text": "Ứng dụng có tên là \"Trang tư vấn thông tin học đường tỉnh Đồng Nai\", và có tên đề tài là \"Ứng dụng công nghệ AI vào công tác Tư vấn thông tin học đường tại tỉnh Đồng Nai\". Các công nghệ được sử dựng trong ứng dụng là:",
+      "attrs": {},
+      "element": "p"
+    },
+    {
+      "name": "about-project-list01",
+      "text": [
+        {
+          "name": "about-project-listitem01",
+          "text": "Frontend: React, Vite, SoketIO,...",
+          "attrs": {},
+          "element": "li"
+        },
+        {
+          "name": "about-project-listitem02",
+          "text": "Backend: Nodejs, Express, SocketIO, OpenAI, LangChain, Supabase, UptashDB, BraveSearch, Groq,...",
+          "attrs": {},
+          "element": "li"
+        }
+      ],
+      "attrs": {
+        "className": "ms-2 mb-2 list-disc list-inside"
+      },
+      "element": "p"
+    },
+    {
+      "name": "about-project-content02",
+      "text": "Chỉ là trang tư vấn thông tin học đường, vậy thì có gì đặc biệt? Trang tư vấn thông tin học đường này tích hợp AI, gọi là AI tư vấn thông tin học đường, trả lời hầu như mọi câu hỏi cơ bản nên sẽ làm giảm khối lượng lớn công việc cho nhân viên Phòng tuyển sinh. Mở rộng phạm vi cho các bạn sinh viên, học sinh tiếp cận.",
+      "attrs": {},
+      "element": "p"
+    },
+    {
+      "name": "about-project-content03",
+      "text": "Ứng dụng có chức năng CHAT và hỗ trợ GIỌNG ĐỌC người dùng.",
+      "attrs": {},
+      "element": "p"
+    }
+  ]
+}
